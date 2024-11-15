@@ -3,7 +3,11 @@ on:
   push:
     tags:
       - Problem**
-
+    branches:
+      - main
+    paths:
+      - '**.csv'
+      - '.github/workflows/Problem_Tickets.yml'
 
 jobs:
   run-python:
