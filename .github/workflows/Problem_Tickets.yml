@@ -2,7 +2,7 @@ name: Problem_Tickets
 on:
   push:
     tags:
-      - Problem_Ticket 
+      - Problem**
 
 
 jobs:
