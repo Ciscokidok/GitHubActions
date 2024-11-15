@@ -3,8 +3,7 @@ on:
    push:
      tags:
        - Problem_Ticket 
-       paths: 
-         -'**.csv'
+
 
 jobs:
   run-python:
