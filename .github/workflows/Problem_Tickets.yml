@@ -24,6 +24,5 @@ jobs:
        - name: Run Python Script
          run: | 
              python3 -m pip install requests
-             python3 -m pip install json
              python3 -m pip install csv
              python3 creat_problem.py 
