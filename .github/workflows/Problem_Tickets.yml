@@ -1,8 +1,8 @@
 name: Problem_Tickets
 on:
-   push:
-     tags:
-       - Problem_Ticket 
+  push:
+    tags:
+      - Problem_Ticket 
 
 
 jobs:
