@@ -1,12 +1,1 @@
-CAPWAP-3-DTLS_CLOSED_ERR,"The DTLS connection closed for the AP due to an unknown reason.
-",Standard Recommended Action,AAA_WLC01,0
-ETHPORT-4-IF_SFP_WARNING,"Possible SFP failure
-",Replace SFP and contact Cisco TAC if issue persists.,SN10-NMGT-05_104,1
-OSPF-4-NEIGH_ERR,"Possible SW issue.
-",Please contact Cisco TAC.,DD-N7K-A-L3CORE,2
-RMGR-3-SOCK_OPER_FAILED,"An operation has failed on a socket descriptor.
-",Standard Recommended Action,MARS_WLC01,3
-SSH-3-NO_MATCH,"No matching mac found
-",Standard Recommended Action,SN9-CH-RTR-01_110,4
-USBHSD-STANDBY-1-ABSENT_ALERT,"Logflash not present to save debug logs.
-",Please contact cisco TAC.,DD-N7K-A,5
+output.csv
