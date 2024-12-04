@@ -1,0 +1,60 @@
+CAPWAP-3-DTLS_CLOSED_ERR,"The DTLS connection closed for the AP due to an unknown reason.
+",Standard Recommended Action,AAA_WLC01,39837920-b2e5-4e86-8948-0906dc59c331
+ETHPORT-4-IF_SFP_WARNING,"Possible SFP failure
+",Replace SFP and contact Cisco TAC if issue persists.,SN10-NMGT-05_104,2b3dc393-95f2-4901-9272-7b0a637317d3
+OSPF-4-NEIGH_ERR,"Possible SW issue.
+",Please contact Cisco TAC.,DD-N7K-A-L3CORE,6bffec49-2c22-46d5-9d89-cf62c21ed10b
+RMGR-3-SOCK_OPER_FAILED,"An operation has failed on a socket descriptor.
+",Standard Recommended Action,MARS_WLC01,911b1012-0e3e-4570-bdb0-74784d7fc4cd
+SSH-3-NO_MATCH,"No matching mac found
+",Standard Recommended Action,SN9-CH-RTR-01_110,b0d7b868-5c2d-4e1b-86a5-41f5ebf92df7
+USBHSD-STANDBY-1-ABSENT_ALERT,"Logflash not present to save debug logs.
+",Please contact cisco TAC.,DD-N7K-A,3965f943-e462-49af-9ea1-956889478875
+CAPWAP-3-DTLS_CLOSED_ERR,"The DTLS connection closed for the AP due to an unknown reason.
+",Standard Recommended Action,AAA_WLC01,057ae8d5-7a01-49a8-a54a-dd68db0dba4c
+ETHPORT-4-IF_SFP_WARNING,"Possible SFP failure
+",Replace SFP and contact Cisco TAC if issue persists.,SN10-NMGT-05_104,37bfb986-26e4-4016-b794-74ea93346ab6
+OSPF-4-NEIGH_ERR,"Possible SW issue.
+",Please contact Cisco TAC.,DD-N7K-A-L3CORE,6f767c5e-9191-41cb-af0d-01a8e4558e3c
+RMGR-3-SOCK_OPER_FAILED,"An operation has failed on a socket descriptor.
+",Standard Recommended Action,MARS_WLC01,85523fcc-d288-49af-9356-843a5a6652df
+SSH-3-NO_MATCH,"No matching mac found
+",Standard Recommended Action,SN9-CH-RTR-01_110,c750e669-5a3e-4b53-bb23-7b84d9ae06fa
+USBHSD-STANDBY-1-ABSENT_ALERT,"Logflash not present to save debug logs.
+",Please contact cisco TAC.,DD-N7K-A,6d1d5486-d319-40f0-9943-65f7b51412c0
+CAPWAP-3-DTLS_CLOSED_ERR,"The DTLS connection closed for the AP due to an unknown reason.
+",Standard Recommended Action,AAA_WLC01,3003577a-cf43-4d5c-833a-03d9c4c725ae
+ETHPORT-4-IF_SFP_WARNING,"Possible SFP failure
+",Replace SFP and contact Cisco TAC if issue persists.,SN10-NMGT-05_104,fe9af319-1fc6-48ac-a204-a5e4afe1ff7e
+OSPF-4-NEIGH_ERR,"Possible SW issue.
+",Please contact Cisco TAC.,DD-N7K-A-L3CORE,b9947cca-cba3-4343-ba51-b88ba3a4c0a0
+RMGR-3-SOCK_OPER_FAILED,"An operation has failed on a socket descriptor.
+",Standard Recommended Action,MARS_WLC01,bcfd2cf2-0201-4680-8d02-372fb1fd85cd
+SSH-3-NO_MATCH,"No matching mac found
+",Standard Recommended Action,SN9-CH-RTR-01_110,d42216f0-6591-44da-a3b3-422a1b1046d4
+USBHSD-STANDBY-1-ABSENT_ALERT,"Logflash not present to save debug logs.
+",Please contact cisco TAC.,DD-N7K-A,4de0a114-137c-424f-9a51-e321e0edd9bb
+CAPWAP-3-DTLS_CLOSED_ERR,"The DTLS connection closed for the AP due to an unknown reason.
+",Standard Recommended Action,AAA_WLC01,e354125b-f308-4b77-8e7e-1714eec5f552
+ETHPORT-4-IF_SFP_WARNING,"Possible SFP failure
+",Replace SFP and contact Cisco TAC if issue persists.,SN10-NMGT-05_104,4e7a56b6-461e-4938-af39-25d59dc52077
+OSPF-4-NEIGH_ERR,"Possible SW issue.
+",Please contact Cisco TAC.,DD-N7K-A-L3CORE,0b79f38a-599c-4e34-860e-d758880f9aa6
+RMGR-3-SOCK_OPER_FAILED,"An operation has failed on a socket descriptor.
+",Standard Recommended Action,MARS_WLC01,a5fa7d8c-8dc6-413d-855f-6ce98fcd7713
+SSH-3-NO_MATCH,"No matching mac found
+",Standard Recommended Action,SN9-CH-RTR-01_110,d749938c-d797-43de-a595-3baada3c43c7
+USBHSD-STANDBY-1-ABSENT_ALERT,"Logflash not present to save debug logs.
+",Please contact cisco TAC.,DD-N7K-A,7efb076a-fb54-4d86-a55c-69d093e17439
+CAPWAP-3-DTLS_CLOSED_ERR,"The DTLS connection closed for the AP due to an unknown reason.
+",Standard Recommended Action,AAA_WLC01,47941b67-1fbe-4ca1-b189-e85ee694cd70
+ETHPORT-4-IF_SFP_WARNING,"Possible SFP failure
+",Replace SFP and contact Cisco TAC if issue persists.,SN10-NMGT-05_104,20f192cf-0d65-4d0e-bca6-0f99f69ebb5a
+OSPF-4-NEIGH_ERR,"Possible SW issue.
+",Please contact Cisco TAC.,DD-N7K-A-L3CORE,629706e1-a871-4012-8d5c-3b183d40bd27
+RMGR-3-SOCK_OPER_FAILED,"An operation has failed on a socket descriptor.
+",Standard Recommended Action,MARS_WLC01,25cd47a7-50df-4b1c-bbee-f0233e153c65
+SSH-3-NO_MATCH,"No matching mac found
+",Standard Recommended Action,SN9-CH-RTR-01_110,ac267305-618e-4c95-ab80-e128ec2b6278
+USBHSD-STANDBY-1-ABSENT_ALERT,"Logflash not present to save debug logs.
+",Please contact cisco TAC.,DD-N7K-A,3d98ceac-74d2-46fa-8d7f-fb6e36d3cd3e
