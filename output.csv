@@ -1,18 +1,1 @@
-CAPWAP-3-DTLS_CLOSED_ERR,"The DTLS connection closed for the AP due to an unknown reason.
-",Standard Recommended Action,PPAA_WLC01,6810,2024-12-16 10:08:11.249522,New
-SSH-3-NO_MATCH,"No matching mac found
-",Standard Recommended Action,MAA_SWR01,6135,2024-12-16 10:08:11.249640,New
-CAPWAP-3-DTLS_CLOSED_ERR,"The DTLS connection closed for the AP due to an unknown reason.
-",Standard Recommended Action,AAA_WLC01,9507,2024-12-16 10:08:11.249649,New
-EMWEB-3-LOGIN_FAILED,"send error on server socket
-",Standard Recommended Action,TCAA_WLC02,2956,2024-12-16 10:08:11.249722,New
-ETHPORT-4-IF_SFP_WARNING,"Possible SFP failure
-",Replace SFP and contact Cisco TAC if issue persists.,SN10-NMGT-05_104,333,2024-12-16 10:08:11.249729,New
-OSPF-4-NEIGH_ERR,"Possible SW issue.
-",Please contact Cisco TAC.,DD-N7K-A-L3CORE,3328,2024-12-16 10:08:11.249761,New
-PLATFORM-2-PS_RED_MODE_RESTORED,"Power Supply redundancy mode changes.
-",No action is required.,SDC-VAULT_MGMT_H05,5204,2024-12-16 10:08:11.249782,New
-USBHSD-STANDBY-1-ABSENT_ALERT,"Logflash not present to save debug logs.
-",Please contact cisco TAC.,SDC_N7018-02_N15,6406,2024-12-16 10:08:11.249842,New
-USER-0-SYSTEM_MSG,"PCIe critical FAILURE DETECTED
-",Standard Recommended Action,SDC-VAULT_MGMT_H05,2320,2024-12-16 10:08:11.249849,New
+output.csv
